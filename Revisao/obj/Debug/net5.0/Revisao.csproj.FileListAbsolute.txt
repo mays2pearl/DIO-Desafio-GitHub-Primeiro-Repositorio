@@ -1,0 +1,15 @@
+/Users/maysa/Documents/projeto c#/Revisao/bin/Debug/net5.0/Revisao.deps.json
+/Users/maysa/Documents/projeto c#/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.json
+/Users/maysa/Documents/projeto c#/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.dev.json
+/Users/maysa/Documents/projeto c#/Revisao/bin/Debug/net5.0/Revisao.dll
+/Users/maysa/Documents/projeto c#/Revisao/bin/Debug/net5.0/ref/Revisao.dll
+/Users/maysa/Documents/projeto c#/Revisao/bin/Debug/net5.0/Revisao.pdb
+/Users/maysa/Documents/projeto c#/Revisao/obj/Debug/net5.0/Revisao.csproj.AssemblyReference.cache
+/Users/maysa/Documents/projeto c#/Revisao/obj/Debug/net5.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maysa/Documents/projeto c#/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfoInputs.cache
+/Users/maysa/Documents/projeto c#/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfo.cs
+/Users/maysa/Documents/projeto c#/Revisao/obj/Debug/net5.0/Revisao.csproj.CoreCompileInputs.cache
+/Users/maysa/Documents/projeto c#/Revisao/obj/Debug/net5.0/Revisao.dll
+/Users/maysa/Documents/projeto c#/Revisao/obj/Debug/net5.0/ref/Revisao.dll
+/Users/maysa/Documents/projeto c#/Revisao/obj/Debug/net5.0/Revisao.pdb
+/Users/maysa/Documents/projeto c#/Revisao/obj/Debug/net5.0/Revisao.genruntimeconfig.cache

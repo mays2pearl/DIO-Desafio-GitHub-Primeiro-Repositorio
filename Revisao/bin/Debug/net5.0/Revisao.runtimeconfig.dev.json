@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/maysa/.dotnet/store/|arch|/|tfm|",
+      "/Users/maysa/.nuget/packages"
+    ]
+  }
+}
